@@ -1,7 +1,11 @@
- ## Firegram
+ # Firegram
 
 This project was created in React JS with back-end of Firebase.
 
+Installation:
+## `npm install`
+
+To run:
 ### `npm start`
 
 Runs the app in the development mode.<br />
