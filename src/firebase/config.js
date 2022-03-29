@@ -15,12 +15,12 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBtDfyLrct7DsddXPnB-lzIirSqHDkvWrg",
+  apiKey: "Your key here",
   authDomain: "firegram-imon.firebaseapp.com",
   projectId: "firegram-imon",
   storageBucket: "firegram-imon.appspot.com",
   messagingSenderId: "637647772807",
-  appId: "1:637647772807:web:13ab5988a0aa732046ac22",
+  appId: "Your Id",
   measurementId: "G-02WRE6GP29"
 };
 
